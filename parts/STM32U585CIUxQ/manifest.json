@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U5/STM32U585CIUxQ:STM32U585CIUxQ",
+  "name": "STM32U585CIUxQ",
+  "library": "MCU_ST_STM32U5",
+  "file": "MCU_ST_STM32U5.kicad_symdir/STM32U585CIUxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 786KB RAM, 160 MHz, 1.71-3.6V, 33 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u585ci.pdf",
+  "keywords": "Arm Cortex-M33 STM32U5 STM32U575/585",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u5@master/parts/STM32U585CIUxQ/",
+  "part_path": "parts/STM32U585CIUxQ",
+  "symbol_file": "parts/STM32U585CIUxQ/STM32U585CIUxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32U5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:30.344Z"
+}

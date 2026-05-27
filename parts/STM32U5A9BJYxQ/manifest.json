@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U5/STM32U5A9BJYxQ:STM32U5A9BJYxQ",
+  "name": "STM32U5A9BJYxQ",
+  "library": "MCU_ST_STM32U5",
+  "file": "MCU_ST_STM32U5.kicad_symdir/STM32U5A9BJYxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 4096KB flash, 2514KB RAM, 160 MHz, 1.71-3.6V, 145 GPIO, WLCSP208",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u5a9bj.pdf",
+  "keywords": "Arm Cortex-M33 STM32U5 STM32U599/5A9",
+  "footprint": "Package_CSP:ST_WLCSP-208_5.38x5.47mm_Layout26x16_P0.35mm_Stagger",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u5@master/parts/STM32U5A9BJYxQ/",
+  "part_path": "parts/STM32U5A9BJYxQ",
+  "symbol_file": "parts/STM32U5A9BJYxQ/STM32U5A9BJYxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32U5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:30.548Z"
+}

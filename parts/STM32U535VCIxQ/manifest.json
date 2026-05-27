@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U5/STM32U535VCIxQ:STM32U535VCIxQ",
+  "name": "STM32U535VCIxQ",
+  "library": "MCU_ST_STM32U5",
+  "file": "MCU_ST_STM32U5.kicad_symdir/STM32U535VCIxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 256KB flash, 274KB RAM, 79 GPIO, UFBGA100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u535vc.pdf",
+  "keywords": "Arm Cortex-M33 STM32U5 STM32U5x5",
+  "footprint": "Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u5@master/parts/STM32U535VCIxQ/",
+  "part_path": "parts/STM32U535VCIxQ",
+  "symbol_file": "parts/STM32U535VCIxQ/STM32U535VCIxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32U5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:30.066Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U5/STM32U5F9VITxQ:STM32U5F9VITxQ",
+  "name": "STM32U5F9VITxQ",
+  "library": "MCU_ST_STM32U5",
+  "file": "MCU_ST_STM32U5.kicad_symdir/STM32U5F9VITxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 3026KB RAM, 63 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u5f9vi.pdf",
+  "keywords": "Arm Cortex-M33 STM32U5 STM32U5F9/5G9",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u5@master/parts/STM32U5F9VITxQ/",
+  "part_path": "parts/STM32U5F9VITxQ",
+  "symbol_file": "parts/STM32U5F9VITxQ/STM32U5F9VITxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32U5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:30.610Z"
+}

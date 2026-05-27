@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32U5/STM32U5A9NJHxQ:STM32U5A9NJHxQ",
+  "name": "STM32U5A9NJHxQ",
+  "library": "MCU_ST_STM32U5",
+  "file": "MCU_ST_STM32U5.kicad_symdir/STM32U5A9NJHxQ.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M33 MCU, 4096KB flash, 2514KB RAM, 160 MHz, 1.71-3.6V, 156 GPIO, TFBGA216",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32u5a9nj.pdf",
+  "keywords": "Arm Cortex-M33 STM32U5 STM32U599/5A9",
+  "footprint": "Package_BGA:TFBGA-216_13x13mm_Layout15x15_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32u5@master/parts/STM32U5A9NJHxQ/",
+  "part_path": "parts/STM32U5A9NJHxQ",
+  "symbol_file": "parts/STM32U5A9NJHxQ/STM32U5A9NJHxQ.kicad_sym",
+  "source_library": "MCU_ST_STM32U5.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:30.551Z"
+}
